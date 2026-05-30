@@ -4,6 +4,12 @@ A simple web application built using HTML, CSS, and JavaScript that generates a 
 
 ---
 
+## 🚀 Live Demo
+
+🔗 https://vriddhimishra.github.io/Random-Color-Generator/
+
+---
+
 ## 🚀 Features
 
 * Generate random RGB colors
