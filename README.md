@@ -36,11 +36,11 @@ A simple web application built using HTML, CSS, and JavaScript that generates a 
 
 ### Initial Interface
 
-![Initial Interface](images/Initial.png)
+![Initial Interface](Initial.png)
 
 ### Generated Color Example
 
-![Generated Color](images/Generated-Color.png)
+![Generated Color](Generated-Color.png)
 
 ---
 
@@ -52,9 +52,8 @@ random-color-generator/
 ├── index.html
 ├── style.css
 ├── app.js
-├── images/
-│   ├── Initial.png
-│   └── Generated-color.png
+├── Initial.png
+├── Generated-color.png
 └── README.md
 ```
 
@@ -88,5 +87,5 @@ git clone https://github.com/your-username/random-color-generator.git
 
 Vriddhi Mishra
 
-Learning Web Development and building projects with JavaScript.
+Learning Web Development and building projects with Creativity.
 
