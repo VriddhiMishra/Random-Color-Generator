@@ -6,7 +6,7 @@ A simple web application built using HTML, CSS, and JavaScript that generates a 
 
 ## 🚀 Live Demo
 
-🔗 https://vriddhimishra.github.io/Random-Color-Generator/
+🔗 https://random-color-generator-ebon.vercel.app/
 
 ---
 
